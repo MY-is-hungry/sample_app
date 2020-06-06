@@ -16,3 +16,5 @@ environment.plugins.prepend(
   })
 )
 module.exports = environment
+resolve.modules defaults to:
+modules: ["node_modules"]

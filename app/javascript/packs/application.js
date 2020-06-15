@@ -8,10 +8,10 @@ require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
 require("jquery")
-import "bootstrap";
-import '../stylesheets/application';
-import Rails from "@rails/ujs";
-Rails.start();
+//import "bootstrap";
+//import '../stylesheets/application';
+//import Rails from "@rails/ujs";
+// Rails.start();
 
 
 

@@ -10,7 +10,7 @@ require("channels")
 require("jquery")
 import "bootstrap";
 import '../stylesheets/application';
-require.context("../images",true)
+//require.context("../images",true)
 //import Rails from "@rails/ujs";
 // Rails.start();
 

@@ -9,7 +9,7 @@ require("@rails/activestorage").start()
 require("channels")
 require("jquery")
 import "bootstrap";
-import '../stylesheets/application';
+//import '../stylesheets/application';
 //require.context("../images",true)
 //import Rails from "@rails/ujs";
 // Rails.start();
